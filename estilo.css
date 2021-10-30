@@ -1,0 +1,21 @@
+
+/* Estilo 1º ejercicio*/
+#task1{
+    font-size: 20px;
+    color: red;
+}
+#cantidad1{
+    text-align: center;
+    width: 110px;
+    color: blue;
+    font-size: medium;
+}
+#contar5{
+    width: 200px;
+    font-size: medium;
+}
+/* Estilo 2º ejercicio */
+#task2{
+    font-size: 21px;
+    color: rgb(255, 196, 0);
+}
